@@ -50,11 +50,11 @@ A Java-based console application developed for IT112 - Computer Programming 1 at
 
 ## CONTACT
 ---
-📧 Email: your-email@example.com
+📧 Email: landerxkirito@gmaial.com
 
-🌐 Portfolio: https://yourwebsite.com
+🌐 Portfolio: https://landerace2727.github.io
 
-💼 GitHub: https://github.com/yourusername
+💼 GitHub: https://github.com/LanderAce2727
 
 ---
 
